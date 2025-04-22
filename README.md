@@ -11,6 +11,8 @@ projects that push its limits.
 <a href="https://leetcode.com/u/Shubh_Chaturvedi/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
 <a href="https://www.naukri.com/code360/profile/a6e008dd-7fd5-4653-b780-d30f42cefb36"><img src="https://img.shields.io/badge/-Coding%20Ninjas-DD6620?style=flat&logo=codingninjas&logoColor=white" /></a>
 
+<div align="center">
+
 ## 💻 Tech Stack  
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -25,7 +27,7 @@ projects that push its limits.
 <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 
-<div align="center">
+
 
 ## 📊 GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=sdotc30&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />  
