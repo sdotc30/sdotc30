@@ -2,13 +2,15 @@
   <img src="https://camo.githubusercontent.com/1ecb2e9568d5f780044c7f401a8e54226e921a9fa74868131f82bb45872e0214/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033362f3132352f3430352f6f726967696e616c2f69676f722d667265697461732d6d6573612e6769663f31363136373739353632" alt="Banner" />
 </p>
 
-# 💫 About Me  
-A third-year BTech student who is passionate about Computer Science and has a wide range of interests in the subject.<br> 
-Currently focusing on Cloud Computing, but keen to learn about other Computer Science fields, possesses a strong<br> 
-academic foundation and a love of learning. Looking for chances to work directly with technology and contribute to<br> 
+# 💫 About Me
+
+A third-year BTech student who is passionate about Computer Science and has a wide range of interests in the subject.<br>
+Currently focusing on Cloud Computing, but keen to learn about other Computer Science fields, possesses a strong<br>
+academic foundation and a love of learning. Looking for chances to work directly with technology and contribute to<br>
 projects that push its limits.
 
-## 🌐 Socials  
+## 🌐 Socials
+
 <a href="https://instagram.com/sdotc_30"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
 <a href="https://linkedin.com/in/shubh-chaturvedi-ba787a266"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 <a href="mailto:shubhchaturvedii@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>  
@@ -17,7 +19,8 @@ projects that push its limits.
 
 <div align="center">
 
-## 💻 Tech Stack  
+## 💻 Tech Stack
+
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -31,18 +34,24 @@ projects that push its limits.
 <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 
+## 📊 GitHub Stats
 
-
-## 📊 GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=sdotc30&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdotc30&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 
-### ✍️ Random Dev Quote  
+### ✍️ Random Dev Quote
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
-### 🔝 Top Contributed Repo  
+### 🔝 Top Contributed Repo
+
 <img src="https://github-contributor-stats.vercel.app/api?username=sdotc30&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevanshV03/DevanshV03/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevanshV03/DevanshV03/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DevanshV03/DevanshV03/output/github-snake.svg" />
+</picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
